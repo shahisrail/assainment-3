@@ -1,0 +1,52 @@
+.banner{
+    margin: 10px;
+}
+.btn{
+    background-color: #B68C5A;
+    color: white;
+  
+    font-weight: bold;
+    padding: 6px;
+    border-radius: 10px;
+    
+   
+}
+.button{
+    background-color:#B68C5A;
+    
+}
+.card-1{
+  
+    width: 57px;
+    margin-left: 39%;
+    margin-top: 10px;
+}
+.card{
+    text-align: center;
+    margin-top: 7%;
+}
+.img{
+    border-radius: 50%;
+    width: 100px;
+   
+}
+.text{
+    margin-top: 15%;
+    color: white;
+    font-weight: 500;
+}
+.footer{
+   list-style-type: none;
+   margin: 4px;
+}
+.footer-1 {
+    gap: 7%;
+    background-color: #111111;
+    color: white;
+    text-align: center;
+    width: 100%;
+}
+.footer-2{
+    margin-left: 10px;
+}
+
